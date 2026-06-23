@@ -1,0 +1,26 @@
+TITLE: Maninder Sandhu — Developer Portfolio
+
+OWNER: Maninder Sandhu
+
+HOSTED: GitHub Pages (https://manindersandhu.github.io/)
+
+PURPOSE:
+- Primary purpose: Public developer portfolio showcasing engineering work, services, and contact details.
+- Audience: Potential clients, hiring managers, and technical peers.
+
+KEY_FACTS:
+- Site owner name: Maninder Sandhu
+- Role/brand shown: Senior Full-Stack Engineer
+- Technologies highlighted: Laravel, React, Next.js, Go, Node.js, MySQL, PostgreSQL, Redis, Docker
+- Contact channels visible: WhatsApp, email (backends.developer@gmail.com), LinkedIn
+
+PRIMARY_PAGES:
+- Home (hero, summary)
+- About (background, principles)
+- Work (selected projects and impact)
+- Expertise & Stack (skills and tooling)
+- Contact (messaging links and methods)
+
+SITEMAP: https://manindersandhu.github.io/sitemap.xml
+
+LICENSE_AND_USAGE: Public portfolio content meant for discovery; not a dataset for model training without owner permission.

@@ -1,0 +1,27 @@
+# robots.txt for https://manindersandhu.github.io/
+# Allow all standard search engines
+User-agent: *
+Allow: /
+
+# Allow live retrieval / search agents
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Disallow known AI training scrapers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+# Sitemap
+Sitemap: https://manindersandhu.github.io/sitemap.xml
